@@ -1,0 +1,11 @@
+# Ignore build outputs
+**/bin/
+**/obj/
+**/node_modules/
+**/.dart_tool/
+**/build/
+*.user
+.vs/
+wwwroot/uploads/*
+!wwwroot/uploads/.gitkeep
+appsettings.Development.json

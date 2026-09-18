@@ -1,0 +1,6 @@
+@Zouq.Api_HostAddress = http://localhost:5263
+
+GET {{Zouq.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
